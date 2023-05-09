@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buy and recharge mobile system", "Buy and recharge mobile system\Buy and recharge mobile system.csproj", "{1ED9D4CB-4939-4B82-8948-8B1DA37C1BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic Manager System", "Sedco.SelfService.Kiosk.LogicManagerSystem\Logic Manager System.csproj", "{66D94C19-C1C6-40D8-96DA-7ED108D47FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Manager", "Sedco.SelfService.Kiosk.XmlFileManager\Data Manager.csproj", "{9E4E4842-1224-4415-B9E9-957A5D55522A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared Projects", "SharedProjects\Shared Projects.csproj", "{D6515145-81D5-45BF-9E55-BF87333BFC5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity Farmework", "Entity Farmework\Entity Farmework.csproj", "{6E9EB580-EF5A-49FA-A57D-1BE6E71C6421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED9D4CB-4939-4B82-8948-8B1DA37C1BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED9D4CB-4939-4B82-8948-8B1DA37C1BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED9D4CB-4939-4B82-8948-8B1DA37C1BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED9D4CB-4939-4B82-8948-8B1DA37C1BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D94C19-C1C6-40D8-96DA-7ED108D47FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D94C19-C1C6-40D8-96DA-7ED108D47FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D94C19-C1C6-40D8-96DA-7ED108D47FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D94C19-C1C6-40D8-96DA-7ED108D47FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4E4842-1224-4415-B9E9-957A5D55522A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4E4842-1224-4415-B9E9-957A5D55522A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4E4842-1224-4415-B9E9-957A5D55522A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4E4842-1224-4415-B9E9-957A5D55522A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6515145-81D5-45BF-9E55-BF87333BFC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6515145-81D5-45BF-9E55-BF87333BFC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6515145-81D5-45BF-9E55-BF87333BFC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6515145-81D5-45BF-9E55-BF87333BFC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9EB580-EF5A-49FA-A57D-1BE6E71C6421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9EB580-EF5A-49FA-A57D-1BE6E71C6421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9EB580-EF5A-49FA-A57D-1BE6E71C6421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9EB580-EF5A-49FA-A57D-1BE6E71C6421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F6407C-E4AF-4677-A61C-1E48D514F1F6}
+	EndGlobalSection
+EndGlobal

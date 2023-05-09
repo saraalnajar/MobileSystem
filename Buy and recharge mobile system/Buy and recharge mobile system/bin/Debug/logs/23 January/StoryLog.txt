@@ -1,0 +1,125 @@
+11:28:40 Number Number_Load The Phone Number Form display the generated Phone Number:4744813 
+11:29:23 Number Number_Load The Phone Number Form display the generated Phone Number:7774407 
+11:32:40 Number Number_Load The Phone Number Form display the generated Phone Number:1126380 
+11:34:07 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = as 
+ PhoneNumber= 1126380 
+ Birthdate=23/01/2001 Package = smart5 is Added 
+11:34:33 Number Number_Load The Phone Number Form display the generated Phone Number:2805050 
+11:35:22 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+11:35:22 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+11:35:22 RechargeForm DeleteButton_Click The Selected row with phoneNumber 2805050 is deleted 
+11:35:22 RechargeForm DeleteButton_Click The Selected row with phoneNumber 1126380 is deleted 
+11:35:25 Number Number_Load The Phone Number Form display the generated Phone Number:8446700 
+11:35:32 Number Number_Load The Phone Number Form display the generated Phone Number:5765637 
+11:35:39 Number Number_Load The Phone Number Form display the generated Phone Number:1768438 
+11:35:46 Number Number_Load The Phone Number Form display the generated Phone Number:2835762 
+11:36:20 Number Number_Load The Phone Number Form display the generated Phone Number:3457213 
+11:36:38 Number Number_Load The Phone Number Form display the generated Phone Number:8050252 
+11:41:16 Number Number_Load The Phone Number Form display the generated Phone Number:7181250 
+11:44:44 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+11:44:44 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+11:44:44 RechargeForm DeleteButton_Click The Selected row with phoneNumber 7181250 is deleted 
+11:44:47 Number Number_Load The Phone Number Form display the generated Phone Number:2227487 
+11:45:53 Number Number_Load The Phone Number Form display the generated Phone Number:2740515 
+11:47:51 Number Number_Load The Phone Number Form display the generated Phone Number:7816104 
+11:53:31 Number Number_Load The Phone Number Form display the generated Phone Number:7410167 
+11:56:16 Number Number_Load The Phone Number Form display the generated Phone Number:5884132 
+11:56:33 Number Number_Load The Phone Number Form display the generated Phone Number:0530502 
+11:59:21 Number Number_Load The Phone Number Form display the generated Phone Number:1714805 
+12:00:20 Number Number_Load The Phone Number Form display the generated Phone Number:6348027 
+12:01:12 Number Number_Load The Phone Number Form display the generated Phone Number:7078207 
+12:02:48 Number Number_Load The Phone Number Form display the generated Phone Number:0781454 
+12:07:05 Number Number_Load The Phone Number Form display the generated Phone Number:0258677 
+12:10:41 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+12:10:41 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+12:10:41 RechargeForm DeleteButton_Click The Selected row with phoneNumber 7078207 is deleted 
+12:10:45 Number Number_Load The Phone Number Form display the generated Phone Number:6051185 
+12:11:15 Number Number_Load The Phone Number Form display the generated Phone Number:4032408 
+12:15:37 Number Number_Load The Phone Number Form display the generated Phone Number:3338506 
+12:16:24 Number Number_Load The Phone Number Form display the generated Phone Number:2888186 
+12:17:28 Number Number_Load The Phone Number Form display the generated Phone Number:4711740 
+12:18:05 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+12:18:05 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+12:18:06 RechargeForm DeleteButton_Click The Selected row with phoneNumber 4711740 is deleted 
+12:18:09 Number Number_Load The Phone Number Form display the generated Phone Number:5720335 
+12:18:23 Number Number_Load The Phone Number Form display the generated Phone Number:7358883 
+12:18:29 Number Number_Load The Phone Number Form display the generated Phone Number:6153668 
+12:19:45 Number Number_Load The Phone Number Form display the generated Phone Number:1455278 
+12:19:46 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = zc 
+ PhoneNumber= 1455278 
+ Birthdate=23/01/2001 Package = smart5 is Added 
+12:19:51 Number Number_Load The Phone Number Form display the generated Phone Number:3215602 
+12:19:57 Number Number_Load The Phone Number Form display the generated Phone Number:7547475 
+12:27:36 Number Number_Load The Phone Number Form display the generated Phone Number:5165303 
+12:32:51 Number Number_Load The Phone Number Form display the generated Phone Number:2278148 
+12:35:40 Number Number_Load The Phone Number Form display the generated Phone Number:6251557 
+12:36:25 Number Number_Load The Phone Number Form display the generated Phone Number:6035740 
+12:36:30 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+12:36:30 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+12:40:21 Number Number_Load The Phone Number Form display the generated Phone Number:4487853 
+12:57:04 Number Number_Load The Phone Number Form display the generated Phone Number:7633312 
+12:57:05 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = fd 
+ PhoneNumber= 7633312 
+ Birthdate=23/01/2001 Package = u8 is Added 
+12:57:16 Number Number_Load The Phone Number Form display the generated Phone Number:8307870 
+12:57:23 Number Number_Load The Phone Number Form display the generated Phone Number:7625034 
+12:58:23 RechargeForm button1_Click Searching about s and displayed 1 customers 
+12:58:27 RechargeForm button1_Click The Search Text-box is empty and displayed 4 customers 
+12:58:34 RechargeForm RechargeButton_Click The Recharge Button has been Clicked 
+ the Phone Number:1455278
+ the Amount is :4 
+13:10:54 Number Number_Load The Phone Number Form display the generated Phone Number:5654214 
+13:11:25 Number Number_Load The Phone Number Form display the generated Phone Number:2731172 
+13:58:03 Number Number_Load The Phone Number Form display the generated Phone Number:5086310 
+13:59:05 Number Number_Load The Phone Number Form display the generated Phone Number:8021474 
+14:00:52 Number Number_Load The Phone Number Form display the generated Phone Number:1466273 
+14:05:03 Number Number_Load The Phone Number Form display the generated Phone Number:5413467 
+14:08:04 Number Number_Load The Phone Number Form display the generated Phone Number:0402251 
+14:08:05 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = SVD 
+ PhoneNumber= 0402251 
+ Birthdate=23/01/2001 Package = pre15          is Added 
+14:08:11 Number Number_Load The Phone Number Form display the generated Phone Number:4525333 
+14:08:12 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = FS 
+ PhoneNumber= 4525333 
+ Birthdate=23/01/2001 Package = smart5 is Added 
+14:08:19 Number Number_Load The Phone Number Form display the generated Phone Number:1054037 
+14:08:20 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = FDSSSSSS 
+ PhoneNumber= 1054037 
+ Birthdate=23/01/2002 Package = pre15          is Added 
+14:09:02 Number Number_Load The Phone Number Form display the generated Phone Number:0706051 
+14:09:03 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = SD 
+ PhoneNumber= 0706051 
+ Birthdate=23/01/2001 Package = smart5 is Added 
+14:09:08 Number Number_Load The Phone Number Form display the generated Phone Number:6447055 
+14:09:09 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = SDF 
+ PhoneNumber= 6447055 
+ Birthdate=23/01/2001 Package = smart5 is Added 
+14:09:14 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+14:09:14 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 0706051 is deleted 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 1054037 is deleted 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 1455278 is deleted 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 4525333 is deleted 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 5432675 is deleted 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 6251557 is deleted 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 6447055 is deleted 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 7633312 is deleted 
+14:09:14 RechargeForm DeleteButton_Click The Selected row with phoneNumber 0402251 is deleted 
+14:09:17 Number Number_Load The Phone Number Form display the generated Phone Number:2184570 
+14:09:18 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = FDS 
+ PhoneNumber= 2184570 
+ Birthdate=23/01/2001 Package = pre15          is Added 
+14:10:07 Number Number_Load The Phone Number Form display the generated Phone Number:0245657 
+14:10:08 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = FS 
+ PhoneNumber= 0245657 
+ Birthdate=23/01/2001 Package = smart5 is Added 
+14:10:17 Number Number_Load The Phone Number Form display the generated Phone Number:2823685 
+14:26:31 Number Number_Load The Phone Number Form display the generated Phone Number:8461546 
+14:28:25 Number Number_Load The Phone Number Form display the generated Phone Number:5103372 
+14:30:03 Number Number_Load The Phone Number Form display the generated Phone Number:0023827 
+14:37:09 Number Number_Load The Phone Number Form display the generated Phone Number:3584200 
+14:37:51 Number Number_Load The Phone Number Form display the generated Phone Number:8305102 
+14:42:45 Number Number_Load The Phone Number Form display the generated Phone Number:6887747 
+17:10:58 Number Number_Load The Phone Number Form display the generated Phone Number:8134100 
+17:12:12 Number Number_Load The Phone Number Form display the generated Phone Number:1800754 
+17:12:41 Number Number_Load The Phone Number Form display the generated Phone Number:5156087 

@@ -1,0 +1,14 @@
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Sedco.SelfService.Kiosk.DataManager.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.DataManager.csproj.CoreCompileInputs.cache
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.DataManager.csproj.CopyComplete
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.DataManager.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Sedco.SelfService.Kiosk.DataManager.dll.config
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Sedco.SelfService.Kiosk.DataManager.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.DataManager.csprojAssemblyReference.cache
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.DataManager.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\SharedProjects.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\SharedProjects.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\EntityFramework.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\EntityFramework.xml
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,43 @@
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Logic Manager System.csproj.CoreCompileInputs.cache
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.dll.config
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\EntityFramework.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.DataManager.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\SharedProjects.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.DataManager.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\EntityFramework.xml
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\SharedProjects.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\SharedProjects.dll.config
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Logic Manager System.csprojAssemblyReference.cache
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Logic Manager System.csproj.CopyComplete
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.pdb
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.pdb
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\EntityFramework.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.DataManager.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\SharedProjects.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.DataManager.pdb
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\EntityFramework.xml
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\SharedProjects.pdb
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\SharedProjects.dll.config
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Logic Manager System.csprojAssemblyReference.cache
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Logic Manager System.csproj.CoreCompileInputs.cache
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Logic Manager System.csproj.CopyComplete
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\obj\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.pdb
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.DataManager.dll.config
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Entity Farmework.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Entity Farmework.pdb
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Entity Farmework.dll.config
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Sedco.SelfService.Kiosk.LogicManagerSystem.dll.config
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\System.Net.Http.Formatting.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\System.Net.Http.Formatting.xml
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Newtonsoft.Json.pdb
+D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\bin\Debug\Newtonsoft.Json.xml

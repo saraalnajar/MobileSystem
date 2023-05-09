@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f3a93fdc-dcd5-4f8b-8c8c-b3296ce6524d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/BuyAndRechargeWcfService/BuyAndRechargeService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BuyAndRechargeService.xsd" MetadataType="Schema" ID="741ca4f9-2540-4ba2-a348-d532f48b7f5d" SourceId="1" SourceUrl="http://localhost/BuyAndRechargeWcfService/BuyAndRechargeService.svc?xsd=xsd1" />
+    <MetadataFile FileName="BuyAndRechargeService1.xsd" MetadataType="Schema" ID="6840f949-bd06-40b7-8e9d-132cf55d651a" SourceId="1" SourceUrl="http://localhost/BuyAndRechargeWcfService/BuyAndRechargeService.svc?xsd=xsd2" />
+    <MetadataFile FileName="BuyAndRechargeService2.xsd" MetadataType="Schema" ID="68e5125a-0938-4836-9cc4-4b3ec9b3b55f" SourceId="1" SourceUrl="http://localhost/BuyAndRechargeWcfService/BuyAndRechargeService.svc?xsd=xsd0" />
+    <MetadataFile FileName="BuyAndRechargeService.wsdl" MetadataType="Wsdl" ID="125d6f0c-8b58-4e6d-91a4-0bc8d7ce135d" SourceId="1" SourceUrl="http://localhost/BuyAndRechargeWcfService/BuyAndRechargeService.svc?wsdl" />
+    <MetadataFile FileName="BuyAndRechargeService.disco" MetadataType="Disco" ID="5c6fa0d2-2d34-48ae-8876-3db2d703c82c" SourceId="1" SourceUrl="http://localhost/BuyAndRechargeWcfService/BuyAndRechargeService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

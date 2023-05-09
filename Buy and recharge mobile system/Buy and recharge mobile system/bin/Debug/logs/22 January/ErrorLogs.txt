@@ -1,0 +1,123 @@
+16:37:06 Number StringToNumber 
+Exception Message:Input string was not in a correct format.    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 51
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 49
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+16:37:07 Number StringToNumber 
+Exception Message:Input string was not in a correct format.    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 51
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 49
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+16:37:08 Number StringToNumber 
+Exception Message:Input string was not in a correct format.    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 51
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 49
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+16:37:08 Number StringToNumber 
+Exception Message:Input string was not in a correct format.    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 51
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 49
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+16:37:12 Number StringToNumber 
+Exception Message:Input string was not in a correct format.    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 51
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 49
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+16:37:13 Number StringToNumber 
+Exception Message:Input string was not in a correct format.    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 51
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 49
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+21:57:40 DbConnectionOptions ParseInternal 
+Exception Message:Keyword not supported: 'initial catalogrecharge system;persist security info'.    at System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<>c.<SetConnectionString>b__8_0(DbConnection t, DbConnectionPropertyInterceptionContext`1 c)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.SetConnectionString(DbConnection connection, DbConnectionPropertyInterceptionContext`1 interceptionContext)
+   at System.Data.Entity.Infrastructure.SqlConnectionFactory.CreateConnection(String nameOrConnectionString)
+   at System.Data.Entity.Infrastructure.LocalDbConnectionFactory.CreateConnection(String nameOrConnectionString)
+   at System.Data.Entity.Internal.LazyInternalConnection.Initialize()
+   at System.Data.Entity.Internal.LazyInternalConnection.get_ProviderName()
+   at System.Data.Entity.Internal.LazyInternalContext.get_ProviderName()
+   at System.Data.Entity.Internal.DefaultModelCacheKeyFactory.Create(DbContext context)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Select[TSource,TResult](IQueryable`1 source, Expression`1 selector)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 69
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241
+21:58:13 DbConnectionOptions ParseInternal 
+Exception Message:Keyword not supported: 'initial catalogrecharge system;persist security info'.    at System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<>c.<SetConnectionString>b__8_0(DbConnection t, DbConnectionPropertyInterceptionContext`1 c)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.SetConnectionString(DbConnection connection, DbConnectionPropertyInterceptionContext`1 interceptionContext)
+   at System.Data.Entity.Infrastructure.SqlConnectionFactory.CreateConnection(String nameOrConnectionString)
+   at System.Data.Entity.Infrastructure.LocalDbConnectionFactory.CreateConnection(String nameOrConnectionString)
+   at System.Data.Entity.Internal.LazyInternalConnection.Initialize()
+   at System.Data.Entity.Internal.LazyInternalConnection.get_ProviderName()
+   at System.Data.Entity.Internal.LazyInternalContext.get_ProviderName()
+   at System.Data.Entity.Internal.DefaultModelCacheKeyFactory.Create(DbContext context)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Select[TSource,TResult](IQueryable`1 source, Expression`1 selector)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 69
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241
+22:09:04 DbConnectionOptions ParseInternal 
+Exception Message:Keyword not supported: 'initial catalogrecharge system;persist security info'.    at System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<>c.<SetConnectionString>b__8_0(DbConnection t, DbConnectionPropertyInterceptionContext`1 c)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.SetConnectionString(DbConnection connection, DbConnectionPropertyInterceptionContext`1 interceptionContext)
+   at System.Data.Entity.Infrastructure.SqlConnectionFactory.CreateConnection(String nameOrConnectionString)
+   at System.Data.Entity.Infrastructure.LocalDbConnectionFactory.CreateConnection(String nameOrConnectionString)
+   at System.Data.Entity.Internal.LazyInternalConnection.Initialize()
+   at System.Data.Entity.Internal.LazyInternalConnection.get_ProviderName()
+   at System.Data.Entity.Internal.LazyInternalContext.get_ProviderName()
+   at System.Data.Entity.Internal.DefaultModelCacheKeyFactory.Create(DbContext context)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Select[TSource,TResult](IQueryable`1 source, Expression`1 selector)
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 69
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241

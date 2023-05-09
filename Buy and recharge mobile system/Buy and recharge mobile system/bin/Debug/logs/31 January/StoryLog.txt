@@ -1,0 +1,14 @@
+19:11:25 RechargeForm button1_Click The Search Text-box is empty and displayed 7 customers 
+19:29:15 RechargeForm button1_Click Searching about d and displayed 5 customers 
+19:29:27 RechargeForm button1_Click Searching about s and displayed 4 customers 
+19:29:37 RechargeForm button1_Click Searching about as and displayed 2 customers 
+22:20:10 RechargeForm button1_Click Searching about f and displayed 2 customers 
+22:20:15 RechargeForm button1_Click The Search Text-box is empty and displayed 7 customers 
+22:20:43 RechargeForm AddPackageButton_Click The Package Added Button is Clicked 
+ Package Type:Prepaid
+the Name of Package:u12
+ The Price: 12 
+23:10:22 Number Number_Load The Phone Number Form display the generated Phone Number:1287652 
+23:10:24 Number CancelButton_Click The Cancel Button has been clicked and the form closed 
+23:10:27 Number Number_Load The Phone Number Form display the generated Phone Number:8630726 
+23:12:49 Number Number_Load The Phone Number Form display the generated Phone Number:3652416 

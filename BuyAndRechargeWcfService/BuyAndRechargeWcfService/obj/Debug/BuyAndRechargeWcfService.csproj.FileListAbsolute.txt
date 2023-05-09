@@ -1,0 +1,22 @@
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\Web.config
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\Web.Release.config
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\BuyAndRechargeWcfService.dll.config
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\BuyAndRechargeWcfService.dll
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\BuyAndRechargeWcfService.pdb
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\Entity Farmework.dll
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\EntityFramework.dll
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\EntityFramework.SqlServer.dll
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\log4net.dll
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\SharedProjects.dll
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\Entity Farmework.pdb
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\Entity Farmework.dll.config
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\EntityFramework.xml
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\EntityFramework.SqlServer.xml
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\log4net.xml
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\SharedProjects.pdb
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\bin\SharedProjects.dll.config
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\obj\Debug\BuyAndRechargeWcfService.csprojAssemblyReference.cache
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\obj\Debug\BuyAndRechargeWcfService.csproj.CoreCompileInputs.cache
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\obj\Debug\BuyAndRechargeWcfService.csproj.CopyComplete
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\obj\Debug\BuyAndRechargeWcfService.dll
+C:\Users\s.alnajar\source\repos\BuyAndRechargeWcfService\BuyAndRechargeWcfService\obj\Debug\BuyAndRechargeWcfService.pdb

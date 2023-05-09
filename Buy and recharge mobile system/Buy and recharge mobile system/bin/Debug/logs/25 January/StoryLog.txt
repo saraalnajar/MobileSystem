@@ -1,0 +1,4 @@
+13:02:35 Number Number_Load The Phone Number Form display the generated Phone Number:3363115 
+13:02:36 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = as 
+ PhoneNumber= 3363115 
+ Birthdate=25/01/2001 Package = pre15          is Added 

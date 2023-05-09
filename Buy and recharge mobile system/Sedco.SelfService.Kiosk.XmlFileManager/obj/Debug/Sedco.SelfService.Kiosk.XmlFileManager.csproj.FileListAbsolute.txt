@@ -1,0 +1,11 @@
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.XmlFileManager.csprojAssemblyReference.cache
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.XmlFileManager.csproj.CoreCompileInputs.cache
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Sedco.SelfService.Kiosk.XmlFileManager.exe.config
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Sedco.SelfService.Kiosk.XmlFileManager.exe
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Sedco.SelfService.Kiosk.XmlFileManager.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Sedco.SelfService.Kiosk.SharedProject.dll.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.XmlFileManager.csproj.CopyComplete
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.XmlFileManager.exe
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\obj\Debug\Sedco.SelfService.Kiosk.XmlFileManager.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Sedco.SelfService.Kiosk.SharedProject.dll.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\bin\Debug\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll

@@ -1,0 +1,6 @@
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\SharedProjects\bin\Debug\SharedProjects.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\SharedProjects\bin\Debug\SharedProjects.pdb
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\SharedProjects\obj\Debug\SharedProjects.csprojAssemblyReference.cache
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\SharedProjects\obj\Debug\SharedProjects.csproj.CoreCompileInputs.cache
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\SharedProjects\obj\Debug\SharedProjects.dll
+C:\Users\s.alnajar\source\repos\Buy and recharge mobile system\SharedProjects\obj\Debug\SharedProjects.pdb

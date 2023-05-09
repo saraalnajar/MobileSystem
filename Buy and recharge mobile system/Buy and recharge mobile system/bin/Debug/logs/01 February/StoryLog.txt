@@ -1,0 +1,75 @@
+08:30:33 Number Number_Load The Phone Number Form display the generated Phone Number:1476528 
+08:31:26 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = tgf 
+ PhoneNumber= 1476528 
+ Birthdate=01/02/2001 Package = PRE10 is Added 
+08:49:02 Number Number_Load The Phone Number Form display the generated Phone Number:2548768 
+08:49:07 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = V 
+ PhoneNumber= 2548768 
+ Birthdate=01/02/2002 Package = PRE10 is Added 
+08:49:12 RechargeForm EditButton_Click The Edit Button of the V Customer is Clicked 
+08:49:20 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+08:49:20 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+08:49:25 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+08:49:25 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+08:49:31 RechargeForm button1_Click Searching about V and displayed 2 customers 
+08:49:35 RechargeForm button1_Click The Search Text-box is empty and displayed 9 customers 
+08:49:55 RechargeForm EditButton_Click The Edit Button of the f Customer is Clicked 
+08:50:14 RechargeForm EditButton_Click The Edit Button of the f Customer is Clicked 
+08:51:26 RechargeForm EditButton_Click The Edit Button of the f Customer is Clicked 
+09:07:23 RechargeForm EditButton_Click The Edit Button of the f Customer is Clicked 
+09:07:32 RechargeForm EditButton_Click The Edit Button of the f Customer is Clicked 
+09:09:28 RechargeForm EditButton_Click The Edit Button of the f Customer is Clicked 
+09:12:04 RechargeForm EditButton_Click The Edit Button of the f Customer is Clicked 
+09:12:05 Edit Edit_Load The Edit Form has been displayed 
+09:12:29 Edit EditSaveButton_Click The Save Button is clicked and the Customer information is edited to 
+Name:fs 
+ BirthDate:1/24/2001
+ Package Name:post8 
+09:12:32 RechargeForm EditButton_Click The Edit Button of the fs Customer is Clicked 
+09:12:38 Edit Edit_Load The Edit Form has been displayed 
+09:12:47 Edit EditSaveButton_Click The Save Button is clicked and the Customer information is edited to 
+Name:fs 
+ BirthDate:1/24/2002
+ Package Name:smart5 
+09:14:30 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+09:14:30 RechargeForm DeleteButton_Click The No Button on Message Box is Clicked And The Message Box is Closed 
+09:14:33 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+09:14:33 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+09:14:33 RechargeForm DeleteButton_Click The Selected row with phoneNumber 2548768 is deleted 
+09:14:33 RechargeForm DeleteButton_Click The Selected row with phoneNumber 1476528 is deleted 
+09:14:33 RechargeForm DeleteButton_Click The Selected row with phoneNumber 1508458 is deleted 
+09:14:38 RechargeForm button1_Click Searching about v and displayed 1 customers 
+09:14:42 RechargeForm button1_Click The Search Text-box is empty and displayed 6 customers 
+09:15:15 RechargeForm RechargeButton_Click The Recharge Button has been Clicked 
+ the Phone Number:0753801
+ the Amount is :2 
+11:31:39 RechargeForm AddPackageButton_Click The Package Added Button is Clicked 
+ Package Type:Prepaid
+the Name of Package:p11
+ The Price: 11 
+11:31:51 RechargeForm AddPackageButton_Click The Package Added Button is Clicked 
+ Package Type:Postpaid
+the Name of Package:post13
+ The Price: 13 
+11:32:05 Number Number_Load The Phone Number Form display the generated Phone Number:4540163 
+11:32:07 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = sd 
+ PhoneNumber= 4540163 
+ Birthdate=01/02/2001 Package = p11 is Added 
+11:32:12 RechargeForm EditButton_Click The Edit Button of the sd Customer is Clicked 
+11:32:12 Edit Edit_Load The Edit Form has been displayed 
+11:32:19 Edit EditSaveButton_Click The Save Button is clicked and the Customer information is edited to 
+Name:sds 
+ BirthDate:2/1/2001
+ Package Name:post13 
+11:32:30 RechargeForm RechargeButton_Click The Recharge Button has been Clicked 
+ the Phone Number:4540163
+ the Amount is :2 
+11:32:37 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+11:32:37 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+11:32:37 RechargeForm DeleteButton_Click The Selected row with phoneNumber 6125781 is deleted 
+11:32:37 RechargeForm DeleteButton_Click The Selected row with phoneNumber 4540163 is deleted 
+11:32:41 RechargeForm button1_Click Searching about sds and displayed 0 customers 
+11:32:43 RechargeForm button1_Click Searching about s and displayed 3 customers 
+11:32:46 RechargeForm button1_Click The Search Text-box is empty and displayed 3 customers 
+11:32:47 RechargeForm button1_Click The Search Text-box is empty and displayed 3 customers 
+11:32:47 RechargeForm button1_Click The Search Text-box is empty and displayed 3 customers 

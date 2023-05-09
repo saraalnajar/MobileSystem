@@ -1,0 +1,24 @@
+22:08:57 RechargeForm button1_Click Searching about D and displayed 1 customers 
+23:32:13 XmlFileMnager .ctor The Customer file is created 
+23:32:13 XmlFileMnager .ctor The Packages file is created 
+23:32:13 XmlFileMnager .ctor The Customer file loaded 
+23:32:13 XmlFileMnager .ctor The Packages file loaded 
+23:32:28 XmlFileMnager .ctor The Customer file loaded 
+23:32:28 XmlFileMnager .ctor The Packages file loaded 
+23:32:49 XmlFileMnager .ctor The Customer file loaded 
+23:32:49 XmlFileMnager .ctor The Packages file loaded 
+23:32:57 RechargeForm AddPackageButton_Click The Package Added Button is Clicked 
+ Package Type:Prepaid
+the Name of Package:ds
+ The Price: 1 
+23:33:04 XmlFileMnager .ctor The Customer file loaded 
+23:33:04 XmlFileMnager .ctor The Packages file loaded 
+23:33:04 Number Number_Load The Phone Number Form display 
+23:33:06 Number CancelButton_Click The Cancel Button has been clicked and the form closed 
+23:33:08 XmlFileMnager .ctor The Customer file loaded 
+23:33:08 XmlFileMnager .ctor The Packages file loaded 
+23:33:08 Number Number_Load The Phone Number Form display 
+23:33:09 Number OkButton_Click The Ok Button has been Clicked And The Customer is Added 
+ the generated Phone Number:0780813077 
+23:36:42 XmlFileMnager .ctor The Customer file loaded 
+23:36:42 XmlFileMnager .ctor The Packages file loaded 

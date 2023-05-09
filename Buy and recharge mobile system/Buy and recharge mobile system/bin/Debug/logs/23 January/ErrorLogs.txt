@@ -1,0 +1,42 @@
+12:36:33 InternalContext SaveChanges 
+Exception Message:An error occurred while updating the entries. See the inner exception for details.    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.DeleteCustomers(String[] customerPhoneNumber) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 105
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.DeleteCustomers(String[] customerPhoneNumber) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 75
+   at Buy_and_recharge_mobile_system.RechargeForm.DeleteButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 373
+12:36:47 InternalContext SaveChanges 
+Exception Message:An error occurred while updating the entries. See the inner exception for details.    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 53
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 50
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+12:36:48 InternalContext SaveChanges 
+Exception Message:An error occurred while updating the entries. See the inner exception for details.    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 53
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 50
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+12:36:48 InternalContext SaveChanges 
+Exception Message:An error occurred while updating the entries. See the inner exception for details.    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 53
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 50
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+12:36:48 InternalContext SaveChanges 
+Exception Message:An error occurred while updating the entries. See the inner exception for details.    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 53
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 50
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82
+12:57:45 InternalContext SaveChanges 
+Exception Message:An error occurred while updating the entries. See the inner exception for details.    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Sedco.SelfService.Kiosk.DataManager.DataBaseManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\DataBaseManager.cs:line 53
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.RechargeBalance(String phoneNumber, String amount) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 50
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeButton_Click(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 82

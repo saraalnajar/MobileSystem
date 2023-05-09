@@ -1,0 +1,22 @@
+11:53:34 RechargeForm button1_Click Searching about 115 and displayed 2 customers 
+11:53:38 RechargeForm EditButton_Click The Edit Button of the as Customer is Clicked 
+11:53:38 Edit Edit_Load The Edit Form has been displayed 
+11:53:45 Edit EditSaveButton_Click The Save Button is clicked and the Customer information is edited to 
+Name:asap 
+ BirthDate:1/25/2001
+ Package Name:pre15          
+11:54:01 RechargeForm EditButton_Click The Edit Button of the asap Customer is Clicked 
+11:54:01 Edit Edit_Load The Edit Form has been displayed 
+11:54:08 Edit EditCancelButton_Click The Cancel Button is Clicked and the Form is Closed 
+11:58:14 RechargeForm RechargeButton_Click The Recharge Button has been Clicked 
+ the Phone Number:3363115
+ the Amount is :2 
+11:58:37 RechargeForm EditButton_Click The Edit Button of the asap Customer is Clicked 
+11:58:37 Edit Edit_Load The Edit Form has been displayed 
+11:58:42 Edit EditSaveButton_Click The Save Button is clicked and the Customer information is edited to 
+Name:asaps 
+ BirthDate:1/25/2001
+ Package Name:pre15          
+11:58:54 RechargeForm RechargeButton_Click The Recharge Button has been Clicked 
+ the Phone Number:3363115
+ the Amount is :2 

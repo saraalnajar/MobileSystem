@@ -1,0 +1,699 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="editCustomerNameLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="editCustomerNameLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="editCustomerNameLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>89, 47</value>
+  </data>
+  <data name="editCustomerNameLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="editCustomerNameLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="editCustomerNameLabel.Text" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="&gt;&gt;editCustomerNameLabel.Name" xml:space="preserve">
+    <value>editCustomerNameLabel</value>
+  </data>
+  <data name="&gt;&gt;editCustomerNameLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerNameLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerNameLabel.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="editCustomerBirthDateLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerBirthDateLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="editCustomerBirthDateLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 128</value>
+  </data>
+  <data name="editCustomerBirthDateLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 25</value>
+  </data>
+  <data name="editCustomerBirthDateLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="editCustomerBirthDateLabel.Text" xml:space="preserve">
+    <value>BirthDate</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBirthDateLabel.Name" xml:space="preserve">
+    <value>editCustomerBirthDateLabel</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBirthDateLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBirthDateLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBirthDateLabel.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="editCustomerPaidTypeLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerPaidTypeLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="editCustomerPaidTypeLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>89, 197</value>
+  </data>
+  <data name="editCustomerPaidTypeLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 25</value>
+  </data>
+  <data name="editCustomerPaidTypeLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="editCustomerPaidTypeLabel.Text" xml:space="preserve">
+    <value>Paid Type</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPaidTypeLabel.Name" xml:space="preserve">
+    <value>editCustomerPaidTypeLabel</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPaidTypeLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPaidTypeLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPaidTypeLabel.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="editCustomerPackagesLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerPackagesLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="editCustomerPackagesLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>88, 256</value>
+  </data>
+  <data name="editCustomerPackagesLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 25</value>
+  </data>
+  <data name="editCustomerPackagesLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="editCustomerPackagesLabel.Text" xml:space="preserve">
+    <value>Packages</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPackagesLabel.Name" xml:space="preserve">
+    <value>editCustomerPackagesLabel</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPackagesLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPackagesLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPackagesLabel.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="editCustomerBalnceLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerBalnceLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="editCustomerBalnceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>89, 378</value>
+  </data>
+  <data name="editCustomerBalnceLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 25</value>
+  </data>
+  <data name="editCustomerBalnceLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="editCustomerBalnceLabel.Text" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBalnceLabel.Name" xml:space="preserve">
+    <value>editCustomerBalnceLabel</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBalnceLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBalnceLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBalnceLabel.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="editCustomerNameText.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="editCustomerNameText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>285, 45</value>
+  </data>
+  <data name="editCustomerNameText.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>4, 40</value>
+  </data>
+  <data name="editCustomerNameText.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerNameText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 40</value>
+  </data>
+  <data name="editCustomerNameText.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;editCustomerNameText.Name" xml:space="preserve">
+    <value>editCustomerNameText</value>
+  </data>
+  <data name="&gt;&gt;editCustomerNameText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerNameText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerNameText.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="editCustomerPostpaidRadioButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerPostpaidRadioButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="editCustomerPostpaidRadioButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>447, 196</value>
+  </data>
+  <data name="editCustomerPostpaidRadioButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 28</value>
+  </data>
+  <data name="editCustomerPostpaidRadioButton.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="editCustomerPostpaidRadioButton.Text" xml:space="preserve">
+    <value>Postpaid</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPostpaidRadioButton.Name" xml:space="preserve">
+    <value>editCustomerPostpaidRadioButton</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPostpaidRadioButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPostpaidRadioButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPostpaidRadioButton.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="editCustomerPrepaidRadioButon.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerPrepaidRadioButon.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="editCustomerPrepaidRadioButon.Location" type="System.Drawing.Point, System.Drawing">
+    <value>285, 196</value>
+  </data>
+  <data name="editCustomerPrepaidRadioButon.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 28</value>
+  </data>
+  <data name="editCustomerPrepaidRadioButon.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="editCustomerPrepaidRadioButon.Text" xml:space="preserve">
+    <value>Prepaid</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPrepaidRadioButon.Name" xml:space="preserve">
+    <value>editCustomerPrepaidRadioButon</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPrepaidRadioButon.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPrepaidRadioButon.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPrepaidRadioButon.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="editCustomerBirthDatePicker.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="editCustomerBirthDatePicker.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 120</value>
+  </data>
+  <data name="editCustomerBirthDatePicker.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>4, 40</value>
+  </data>
+  <data name="editCustomerBirthDatePicker.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 40</value>
+  </data>
+  <data name="editCustomerBirthDatePicker.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBirthDatePicker.Name" xml:space="preserve">
+    <value>editCustomerBirthDatePicker</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBirthDatePicker.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBirthDatePicker.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBirthDatePicker.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="editCustomerBalanceText.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="editCustomerBalanceText.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="editCustomerBalanceText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 380</value>
+  </data>
+  <data name="editCustomerBalanceText.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>4, 40</value>
+  </data>
+  <data name="editCustomerBalanceText.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerBalanceText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 40</value>
+  </data>
+  <data name="editCustomerBalanceText.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBalanceText.Name" xml:space="preserve">
+    <value>editCustomerBalanceText</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBalanceText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBalanceText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerBalanceText.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="saveEditButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="saveEditButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>390, 530</value>
+  </data>
+  <data name="saveEditButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 46</value>
+  </data>
+  <data name="saveEditButton.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="saveEditButton.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="&gt;&gt;saveEditButton.Name" xml:space="preserve">
+    <value>saveEditButton</value>
+  </data>
+  <data name="&gt;&gt;saveEditButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveEditButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;saveEditButton.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="cancelEditButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="cancelEditButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>143, 530</value>
+  </data>
+  <data name="cancelEditButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 46</value>
+  </data>
+  <data name="cancelEditButton.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="cancelEditButton.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="&gt;&gt;cancelEditButton.Name" xml:space="preserve">
+    <value>cancelEditButton</value>
+  </data>
+  <data name="&gt;&gt;cancelEditButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cancelEditButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cancelEditButton.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="editNameError.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>26</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>688, 667</value>
+  </data>
+  <data name="failedLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="failedLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="failedLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>299, 611</value>
+  </data>
+  <data name="failedLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 25</value>
+  </data>
+  <data name="failedLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;failedLabel.Name" xml:space="preserve">
+    <value>failedLabel</value>
+  </data>
+  <data name="&gt;&gt;failedLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;failedLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;failedLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="editCustomerExpireDateText.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="editCustomerExpireDateText.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="editCustomerExpireDateText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 445</value>
+  </data>
+  <data name="editCustomerExpireDateText.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>4, 40</value>
+  </data>
+  <data name="editCustomerExpireDateText.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerExpireDateText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 40</value>
+  </data>
+  <data name="editCustomerExpireDateText.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;editCustomerExpireDateText.Name" xml:space="preserve">
+    <value>editCustomerExpireDateText</value>
+  </data>
+  <data name="&gt;&gt;editCustomerExpireDateText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerExpireDateText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerExpireDateText.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="editCustomerExpireDateLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerExpireDateLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="editCustomerExpireDateLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="editCustomerExpireDateLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>89, 449</value>
+  </data>
+  <data name="editCustomerExpireDateLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 25</value>
+  </data>
+  <data name="editCustomerExpireDateLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="editCustomerExpireDateLabel.Text" xml:space="preserve">
+    <value>Expire Date</value>
+  </data>
+  <data name="&gt;&gt;editCustomerExpireDateLabel.Name" xml:space="preserve">
+    <value>editCustomerExpireDateLabel</value>
+  </data>
+  <data name="&gt;&gt;editCustomerExpireDateLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerExpireDateLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerExpireDateLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="editCustomerPhoneNumberText.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="editCustomerPhoneNumberText.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="editCustomerPhoneNumberText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 317</value>
+  </data>
+  <data name="editCustomerPhoneNumberText.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>4, 40</value>
+  </data>
+  <data name="editCustomerPhoneNumberText.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerPhoneNumberText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 40</value>
+  </data>
+  <data name="editCustomerPhoneNumberText.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPhoneNumberText.Name" xml:space="preserve">
+    <value>editCustomerPhoneNumberText</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPhoneNumberText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPhoneNumberText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPhoneNumberText.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="editCustomerPhoneNumberLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="editCustomerPhoneNumberLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="editCustomerPhoneNumberLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="editCustomerPhoneNumberLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>89, 321</value>
+  </data>
+  <data name="editCustomerPhoneNumberLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 25</value>
+  </data>
+  <data name="editCustomerPhoneNumberLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="editCustomerPhoneNumberLabel.Text" xml:space="preserve">
+    <value>Phone Number</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPhoneNumberLabel.Name" xml:space="preserve">
+    <value>editCustomerPhoneNumberLabel</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPhoneNumberLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPhoneNumberLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editCustomerPhoneNumberLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="editlCustomerPackagesComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>283, 256</value>
+  </data>
+  <data name="editlCustomerPackagesComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 21</value>
+  </data>
+  <data name="editlCustomerPackagesComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;editlCustomerPackagesComboBox.Name" xml:space="preserve">
+    <value>editlCustomerPackagesComboBox</value>
+  </data>
+  <data name="&gt;&gt;editlCustomerPackagesComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editlCustomerPackagesComboBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;editlCustomerPackagesComboBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Edit Customer</value>
+  </data>
+  <data name="&gt;&gt;editNameError.Name" xml:space="preserve">
+    <value>editNameError</value>
+  </data>
+  <data name="&gt;&gt;editNameError.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ErrorProvider, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;birthDateError.Name" xml:space="preserve">
+    <value>birthDateError</value>
+  </data>
+  <data name="&gt;&gt;birthDateError.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ErrorProvider, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="birthDateError.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>149, 23</value>
+  </metadata>
+</root>

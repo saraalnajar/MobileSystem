@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <Name>sd</Name>
+    <PhoneNumber>0813077</PhoneNumber>
+    <BirthDate>17/01/2000</BirthDate>
+    <ExpireDate>17/04/2023</ExpireDate>
+    <PackageId>1</PackageId>
+    <Balance>1</Balance>
+  </Customer>
+</Customers>

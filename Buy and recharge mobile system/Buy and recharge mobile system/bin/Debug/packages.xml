@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Packages>
+  <Package>
+    <Id>1</Id>
+    <Name>ds</Name>
+    <Type>Prepaid</Type>
+    <Price>1</Price>
+  </Package>
+</Packages>

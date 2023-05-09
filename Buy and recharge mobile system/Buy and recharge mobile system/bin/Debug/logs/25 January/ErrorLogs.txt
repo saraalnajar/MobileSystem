@@ -1,0 +1,139 @@
+11:28:25 RealProxy HandleReturnMessage 
+Exception Message:An error occurred while receiving the HTTP response to http://localhost:8080/BuyAndRechargeService. This could be due to the service endpoint binding not using the HTTP protocol. This could also be due to an HTTP request context being aborted by the server (possibly due to the service shutting down). See server logs for more details. 
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.IBuyAndRechargeService.HandleCustomer(String action, Dictionary`2 customerData)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.BuyAndRechargeServiceClient.HandleCustomer(String action, Dictionary`2 customerData) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\Connected Services\BuyAndRechargeService\Reference.cs:line 61
+   at Sedco.SelfService.Kiosk.DataManager.WcfManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\WcfManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 70
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241
+11:31:19 RealProxy HandleReturnMessage 
+Exception Message:There was no endpoint listening at http://localhost:8080/BuyAndRechargeService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. 
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.IBuyAndRechargeService.HandleCustomer(String action, Dictionary`2 customerData)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.BuyAndRechargeServiceClient.HandleCustomer(String action, Dictionary`2 customerData) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\Connected Services\BuyAndRechargeService\Reference.cs:line 61
+   at Sedco.SelfService.Kiosk.DataManager.WcfManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\WcfManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 76
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241
+13:00:33 WindowsFormsApplicationBase Run 
+Exception Message:This single-instance application could not connect to the original instance.    at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run(String[] commandLine)
+   at Buy_and_recharge_mobile_system.Program.Main() in D:\Buy and recharge mobile system\Buy and recharge mobile system\Program.cs:line 22
+13:00:42 WindowsFormsApplicationBase Run 
+Exception Message:This single-instance application could not connect to the original instance.    at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run(String[] commandLine)
+   at Buy_and_recharge_mobile_system.Program.Main() in D:\Buy and recharge mobile system\Buy and recharge mobile system\Program.cs:line 22
+13:00:43 WindowsFormsApplicationBase Run 
+Exception Message:This single-instance application could not connect to the original instance.    at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run(String[] commandLine)
+   at Buy_and_recharge_mobile_system.Program.Main() in D:\Buy and recharge mobile system\Buy and recharge mobile system\Program.cs:line 22
+13:00:44 WindowsFormsApplicationBase Run 
+Exception Message:This single-instance application could not connect to the original instance.    at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run(String[] commandLine)
+   at Buy_and_recharge_mobile_system.Program.Main() in D:\Buy and recharge mobile system\Buy and recharge mobile system\Program.cs:line 22
+13:01:03 WindowsFormsApplicationBase Run 
+Exception Message:This single-instance application could not connect to the original instance.    at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run(String[] commandLine)
+   at Buy_and_recharge_mobile_system.Program.Main() in D:\Buy and recharge mobile system\Buy and recharge mobile system\Program.cs:line 22
+14:12:07 RealProxy HandleReturnMessage 
+Exception Message:The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs. 
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.ThrowIfFaultUnderstood(Message reply, MessageFault fault, String action, MessageVersion version, FaultConverter faultConverter)
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.IBuyAndRechargeService.HandleCustomer(String action, Dictionary`2 customerData)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.BuyAndRechargeServiceClient.HandleCustomer(String action, Dictionary`2 customerData) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\Connected Services\BuyAndRechargeService\Reference.cs:line 61
+   at Sedco.SelfService.Kiosk.DataManager.WcfManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\WcfManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 76
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241
+15:07:40 RealProxy HandleReturnMessage 
+Exception Message:The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs. 
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.ThrowIfFaultUnderstood(Message reply, MessageFault fault, String action, MessageVersion version, FaultConverter faultConverter)
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.IBuyAndRechargeService.HandleCustomer(String action, Dictionary`2 customerData)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.BuyAndRechargeServiceClient.HandleCustomer(String action, Dictionary`2 customerData) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\Connected Services\BuyAndRechargeService\Reference.cs:line 61
+   at Sedco.SelfService.Kiosk.DataManager.WcfManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\WcfManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 81
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241
+15:07:48 RealProxy HandleReturnMessage 
+Exception Message:The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs. 
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.ThrowIfFaultUnderstood(Message reply, MessageFault fault, String action, MessageVersion version, FaultConverter faultConverter)
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.IBuyAndRechargeService.HandleCustomer(String action, Dictionary`2 customerData)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.BuyAndRechargeServiceClient.HandleCustomer(String action, Dictionary`2 customerData) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\Connected Services\BuyAndRechargeService\Reference.cs:line 61
+   at Sedco.SelfService.Kiosk.DataManager.WcfManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\WcfManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 81
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241
+15:11:21 RealProxy HandleReturnMessage 
+Exception Message:The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs. 
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.ThrowIfFaultUnderstood(Message reply, MessageFault fault, String action, MessageVersion version, FaultConverter faultConverter)
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.IBuyAndRechargeService.HandleCustomer(String action, Dictionary`2 customerData)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.BuyAndRechargeServiceClient.HandleCustomer(String action, Dictionary`2 customerData) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\Connected Services\BuyAndRechargeService\Reference.cs:line 61
+   at Sedco.SelfService.Kiosk.DataManager.WcfManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\WcfManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 81
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241
+16:41:20 RealProxy HandleReturnMessage 
+Exception Message:The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs. 
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.ThrowIfFaultUnderstood(Message reply, MessageFault fault, String action, MessageVersion version, FaultConverter faultConverter)
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.IBuyAndRechargeService.HandleCustomer(String action, Dictionary`2 customerData)
+   at Sedco.SelfService.Kiosk.DataManager.BuyAndRechargeService.BuyAndRechargeServiceClient.HandleCustomer(String action, Dictionary`2 customerData) in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\Connected Services\BuyAndRechargeService\Reference.cs:line 61
+   at Sedco.SelfService.Kiosk.DataManager.WcfManager.GetCustomers() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.XmlFileManager\WcfManager.cs:line 21
+   at Sedco.SelfService.Kiosk.LogicManagerSystem.SystemLogicManager.GetAllCustomer() in D:\Buy and recharge mobile system\Sedco.SelfService.Kiosk.LogicManagerSystem\SystemLogicManager.cs:line 81
+   at Buy_and_recharge_mobile_system.RechargeForm.RechargeForm_Load(Object sender, EventArgs e) in D:\Buy and recharge mobile system\Buy and recharge mobile system\MainSystem.cs:line 241

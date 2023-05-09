@@ -1,0 +1,49 @@
+10:14:42 Number Number_Load The Phone Number Form display the generated Phone Number:8863747 
+10:15:05 Number Number_Load The Phone Number Form display the generated Phone Number:0272331 
+10:15:30 Number Number_Load The Phone Number Form display the generated Phone Number:7706635 
+10:15:59 Number Number_Load The Phone Number Form display the generated Phone Number:6362711 
+10:18:05 Number Number_Load The Phone Number Form display the generated Phone Number:3415012 
+10:24:08 Number Number_Load The Phone Number Form display the generated Phone Number:2252651 
+10:24:33 Number Number_Load The Phone Number Form display the generated Phone Number:6578014 
+10:38:48 Number Number_Load The Phone Number Form display the generated Phone Number:7667026 
+10:38:49 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = d 
+ PhoneNumber= 7667026 
+ Birthdate=24/01/2002 Package = u8 is Added 
+10:38:56 Number Number_Load The Phone Number Form display the generated Phone Number:7414563 
+10:38:57 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = dfs 
+ PhoneNumber= 7414563 
+ Birthdate=24/01/2001 Package = u8 is Added 
+10:39:01 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+10:39:01 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+10:39:01 RechargeForm DeleteButton_Click The Selected row with phoneNumber 2184570 is deleted 
+10:39:01 RechargeForm DeleteButton_Click The Selected row with phoneNumber 7414563 is deleted 
+10:39:01 RechargeForm DeleteButton_Click The Selected row with phoneNumber 7667026 is deleted 
+10:39:01 RechargeForm DeleteButton_Click The Selected row with phoneNumber 7706635 is deleted 
+10:39:01 RechargeForm DeleteButton_Click The Selected row with phoneNumber 8305102 is deleted 
+10:39:01 RechargeForm DeleteButton_Click The Selected row with phoneNumber 0245657 is deleted 
+10:39:06 Number Number_Load The Phone Number Form display the generated Phone Number:1508458 
+10:39:07 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = d 
+ PhoneNumber= 1508458 
+ Birthdate=24/01/2001 Package = u8 is Added 
+10:39:24 Number Number_Load The Phone Number Form display the generated Phone Number:2883565 
+10:39:25 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = dv 
+ PhoneNumber= 2883565 
+ Birthdate=24/01/2001 Package = Post4 is Added 
+10:39:29 Number Number_Load The Phone Number Form display the generated Phone Number:0753801 
+10:39:29 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = f 
+ PhoneNumber= 0753801 
+ Birthdate=24/01/2001 Package = post8 is Added 
+10:39:46 Number Number_Load The Phone Number Form display the generated Phone Number:6125781 
+10:39:46 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = fds 
+ PhoneNumber= 6125781 
+ Birthdate=24/01/2001 Package = smart5 is Added 
+10:39:52 Number Number_Load The Phone Number Form display the generated Phone Number:7423205 
+10:43:01 Number Number_Load The Phone Number Form display the generated Phone Number:6864823 
+10:43:49 Number Number_Load The Phone Number Form display the generated Phone Number:1424056 
+10:43:50 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = sda 
+ PhoneNumber= 1424056 
+ Birthdate=24/01/2001 Package = post20 is Added 
+10:43:58 Number Number_Load The Phone Number Form display the generated Phone Number:6150115 
+10:43:59 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = das 
+ PhoneNumber= 6150115 
+ Birthdate=24/01/2001 Package = pre15          is Added 

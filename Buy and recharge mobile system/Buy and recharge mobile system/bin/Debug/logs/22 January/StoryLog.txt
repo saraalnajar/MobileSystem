@@ -1,0 +1,56 @@
+15:03:30 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+15:03:30 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+15:03:31 RechargeForm DeleteButton_Click The Selected row with phoneNumber 4754205 is deleted 
+15:03:31 RechargeForm DeleteButton_Click The Selected row with phoneNumber 3366783 is deleted 
+15:03:31 RechargeForm DeleteButton_Click The Selected row with phoneNumber 5312842 is deleted 
+15:03:31 RechargeForm DeleteButton_Click The Selected row with phoneNumber 5402873 is deleted 
+15:03:31 RechargeForm DeleteButton_Click The Selected row with phoneNumber 1152206 is deleted 
+15:04:08 Number Number_Load The Phone Number Form display the generated Phone Number:2742457 
+15:04:53 Number Number_Load The Phone Number Form display the generated Phone Number:5080470 
+15:29:05 Number Number_Load The Phone Number Form display the generated Phone Number:3004883 
+15:30:58 Number Number_Load The Phone Number Form display the generated Phone Number:4758870 
+15:31:31 Number Number_Load The Phone Number Form display the generated Phone Number:0305148 
+15:32:23 Number Number_Load The Phone Number Form display the generated Phone Number:0168816 
+15:43:25 Number Number_Load The Phone Number Form display the generated Phone Number:7743441 
+15:43:26 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = sa 
+ PhoneNumber= 7743441 
+ Birthdate=22/01/2001 Package = pre15          is Added 
+16:03:28 RechargeForm EditButton_Click The Edit Button of the sa Customer is Clicked 
+16:03:28 Edit Edit_Load The Edit Form has been displayed 
+16:03:31 Edit EditCancelButton_Click The Cancel Button is Clicked and the Form is Closed 
+16:03:36 RechargeForm EditButton_Click The Edit Button of the sa Customer is Clicked 
+16:03:36 Edit Edit_Load The Edit Form has been displayed 
+16:03:38 Edit EditCancelButton_Click The Cancel Button is Clicked and the Form is Closed 
+16:03:42 RechargeForm EditButton_Click The Edit Button of the sa Customer is Clicked 
+16:03:42 Edit Edit_Load The Edit Form has been displayed 
+16:03:43 Edit EditCancelButton_Click The Cancel Button is Clicked and the Form is Closed 
+16:04:33 RechargeForm RechargeButton_Click The Recharge Button has been Clicked 
+ the Phone Number:7743441
+ the Amount is :2 
+16:04:38 RechargeForm EditButton_Click The Edit Button of the sa Customer is Clicked 
+16:04:39 Edit Edit_Load The Edit Form has been displayed 
+16:04:40 Edit EditCancelButton_Click The Cancel Button is Clicked and the Form is Closed 
+16:14:32 RechargeForm DeleteButton_Click The Delete Button is Clicked and The Message Box is displayed 
+16:14:32 RechargeForm DeleteButton_Click The Yes Button on Message Box is Clicked 
+16:14:32 RechargeForm DeleteButton_Click The Selected row with phoneNumber 7743441 is deleted 
+16:15:29 Number Number_Load The Phone Number Form display the generated Phone Number:0814815 
+16:16:04 Number Number_Load The Phone Number Form display the generated Phone Number:7724113 
+16:19:42 Number Number_Load The Phone Number Form display the generated Phone Number:5531407 
+16:20:44 Number Number_Load The Phone Number Form display the generated Phone Number:3787571 
+16:24:40 Number Number_Load The Phone Number Form display the generated Phone Number:1723864 
+16:26:20 Number Number_Load The Phone Number Form display the generated Phone Number:1715230 
+16:26:49 Number Number_Load The Phone Number Form display the generated Phone Number:2586251 
+16:28:40 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = fds 
+ PhoneNumber= 2586251 
+ Birthdate=22/01/2001 Package = smart5 is Added 
+16:34:39 Number Number_Load The Phone Number Form display the generated Phone Number:8174676 
+16:34:40 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = asas 
+ PhoneNumber= 8174676 
+ Birthdate=22/01/2001 Package = smart5 is Added 
+16:34:54 RechargeForm RechargeButton_Click The Recharge Button has been Clicked 
+ the Phone Number:8174676
+ the Amount is :1 
+16:37:17 RechargeForm RechargeButton_Click The Recharge Button has been Clicked 
+ the Phone Number:2586251
+ the Amount is :1 
+22:20:44 RechargeForm button1_Click Searching about sa and displayed 1 customers 

@@ -1,0 +1,66 @@
+00:12:40 XmlFileMnager .ctor The Customer file loaded 
+00:12:40 XmlFileMnager .ctor The Packages file loaded 
+00:13:24 XmlFileMnager .ctor The Customer file loaded 
+00:13:24 XmlFileMnager .ctor The Packages file loaded 
+08:45:54 XmlFileMnager .ctor The Customer file loaded 
+08:45:54 XmlFileMnager .ctor The Packages file loaded 
+08:47:05 XmlFileMnager .ctor The Customer file loaded 
+08:47:05 XmlFileMnager .ctor The Packages file loaded 
+08:56:20 XmlFileMnager .ctor The Customer file loaded 
+08:56:20 XmlFileMnager .ctor The Packages file loaded 
+08:57:03 XmlFileMnager .ctor The Customer file loaded 
+08:57:03 XmlFileMnager .ctor The Packages file loaded 
+09:01:01 XmlFileMnager .ctor The Customer file loaded 
+09:01:01 XmlFileMnager .ctor The Packages file loaded 
+09:02:15 XmlFileMnager .ctor The Customer file loaded 
+09:02:15 XmlFileMnager .ctor The Packages file loaded 
+09:02:48 XmlFileMnager .ctor The Customer file loaded 
+09:02:48 XmlFileMnager .ctor The Packages file loaded 
+09:08:36 XmlFileMnager .ctor The Customer file loaded 
+09:08:36 XmlFileMnager .ctor The Packages file loaded 
+09:10:35 XmlFileMnager .ctor The Customer file loaded 
+09:10:35 XmlFileMnager .ctor The Packages file loaded 
+09:18:38 RechargeForm EditButton_Click The Edit Button of the sa Customer is Clicked 
+09:18:38 Edit Edit_Load The Edit Form has been displayed 
+09:18:45 Edit EditSaveButton_Click The Save Button is clicked and the Customer information is edited to 
+Name:sayh 
+ BirthDate:1/18/2002
+ Package Name:PRE10 
+09:18:48 RechargeForm EditButton_Click The Edit Button of the sayh Customer is Clicked 
+09:18:48 Edit Edit_Load The Edit Form has been displayed 
+09:18:58 Edit EditCancelButton_Click The Cancel Button is Clicked and the Form is Closed 
+09:25:18 RechargeForm EditButton_Click The Edit Button of the sayh Customer is Clicked 
+09:25:18 Edit Edit_Load The Edit Form has been displayed 
+09:25:20 Edit EditSaveButton_Click The Save Button is clicked and the Customer information is edited to 
+Name:as 
+ BirthDate:1/18/2002
+ Package Name:PRE10 
+09:43:57 Number Number_Load The Phone Number Form display the generated Phone Number:4632804 
+09:44:00 Number CancelButton_Click The Cancel Button has been clicked and the form closed 
+09:44:02 Number Number_Load The Phone Number Form display the generated Phone Number:3571567 
+09:44:07 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = saraa 
+ PhoneNumber= 3571567 
+ Birthdate=18/01/2001 Package = pre15          is Added 
+09:44:19 RechargeForm EditButton_Click The Edit Button of the saraa Customer is Clicked 
+09:44:19 Edit Edit_Load The Edit Form has been displayed 
+09:44:26 Edit EditSaveButton_Click The Save Button is clicked and the Customer information is edited to 
+Name:aa 
+ BirthDate:1/18/2001
+ Package Name:pre15          
+09:44:47 RechargeForm Rechargebutton_Click The Recharge Button has been Clicked 
+ the Phone Number:3571567
+ the Amount is :2 
+09:46:42 Number Number_Load The Phone Number Form display the generated Phone Number:5312842 
+09:46:47 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = sd 
+ PhoneNumber= 5312842 
+ Birthdate=18/01/2001 Package = post8 is Added 
+11:42:18 RechargeForm EditButton_Click The Edit Button of the as Customer is Clicked 
+11:42:18 Edit Edit_Load The Edit Form has been displayed 
+11:42:19 Edit EditCancelButton_Click The Cancel Button is Clicked and the Form is Closed 
+12:21:50 Number Number_Load The Phone Number Form display the generated Phone Number:4754205 
+12:21:59 RechargeForm AddCustomerButton_Click the ok is clicked and the Customer with the Name = kj 
+ PhoneNumber= 4754205 
+ Birthdate=18/01/2001 Package = pre15          is Added 
+12:22:14 RechargeForm EditButton_Click The Edit Button of the sarah Customer is Clicked 
+12:22:14 Edit Edit_Load The Edit Form has been displayed 
+12:22:48 Edit EditCancelButton_Click The Cancel Button is Clicked and the Form is Closed 
